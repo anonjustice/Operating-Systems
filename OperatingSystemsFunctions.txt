@@ -3,3 +3,9 @@ After an electrical current resets the processor chip, the firmware provides sta
 Various pieces of hardware, and peripheral devices, are then checked to ensure they are in good shape.
 The kernal of the operating system is then loaded from internal storage to the RAM.
 The kernal is the 'boss' of the OS and manages memory, devices, and assigns resources.
+
+Multitasking process.
+Modern computers are able to run multiple programs in the background, this is called multitasking.
+Many embedded computers and mobile phones are only singletasking; they can only run one program at a time.
+This multitasking allows multiple applications to reside in memory at the same time.
+You do not have to exit one app to use another.
