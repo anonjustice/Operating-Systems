@@ -9,3 +9,8 @@ Modern computers are able to run multiple programs in the background, this is ca
 Many embedded computers and mobile phones are only singletasking; they can only run one program at a time.
 This multitasking allows multiple applications to reside in memory at the same time.
 You do not have to exit one app to use another.
+
+Coordinating tasks function
+Operating systems assign certain activities priority over others. 
+Tasks include things like retreiving data instructions, transferring items from RAM to internal storage, and sending data to output device(s)
+Assisting with this function are things like  a buffer which holds data temporarily as it is being tranferred between devices.
