@@ -1,0 +1,5 @@
+The Boot Up process
+After an electrical current resets the processor chip, the firmware provides start-up instructions. 
+Various pieces of hardware, and peripheral devices, are then checked to ensure they are in good shape.
+The kernal of the operating system is then loaded from internal storage to the RAM.
+The kernal is the 'boss' of the OS and manages memory, devices, and assigns resources.
